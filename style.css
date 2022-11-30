@@ -40,7 +40,7 @@ body{
 }
 
 #showcase{
-    background-image:url('../image/showcase.avif');
+    background-image:url('/image/showcase.avif');
     background-position:center right;
     min-height:300px;
     margin-bottom:30px;
